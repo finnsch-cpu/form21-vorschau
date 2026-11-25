@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/form21-vorschau/_next/static/chunks/3qfy96eoyh-ek.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+7:"/form21-vorschau/_next/static/chunks/0zwehj2471m2_.js"
+8:I[22016,["$7"],""]
+12:I[97367,["$4"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$4"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$4"],"$18"]
+1a:I[27201,["$4"],"IconMark"]
+a:X
+a:C
+b:X
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"no-articles-yet","s":[]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@f","v":"$a","s":"$b"},"c":"$Q10"}]]
+c:[["children",{"s":"knowledge","h":131168,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+2:[["children",{"s":"en","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","section",null,{"className":"seitenkopf","style":{"paddingBottom":"var(--abschnitt)"},"children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"label","children":"Error 404"}],["$","h1",null,{"className":"seitenkopf__titel display titel-l","children":["This page"," ",["$","em",null,{"children":"does not exist."}]]}],["$","p",null,{"className":"lead","children":"It may have moved. Here are some places to go next:"}],["$","div",null,{"className":"aktionen","style":{"marginTop":32},"children":[["$","$L8",null,{"href":"/en","className":"weiter","children":[["$","span",null,{"children":"Home"}],["$","svg",null,{"className":"pfeil","width":"14","height":"14","viewBox":"0 0 14 14","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M3 11 11 3M5 3h6v6","fill":"none","stroke":"currentColor","strokeWidth":"1.5"}]}]]}],["$","$L8",null,{"href":"/en/ai-training","className":"weiter","children":[["$","span",null,{"children":"AI training"}],["$","svg",null,{"className":"pfeil","width":"14","height":"14","viewBox":"0 0 14 14","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M3 11 11 3M5 3h6v6","fill":"none","stroke":"currentColor","strokeWidth":"1.5"}]}]]}],["$","$L8",null,{"href":"/en/find-talent","className":"weiter","children":[["$","span",null,{"children":"Find talent with STARK"}],["$","svg",null,{"className":"pfeil","width":"14","height":"14","viewBox":"0 0 14 14","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M3 11 11 3M5 3h6v6","fill":"none","stroke":"currentColor","strokeWidth":"1.5"}]}]]}],["$","$L8",null,{"href":"/en/enquiry","className":"weiter","children":[["$","span",null,{"children":"Get in touch"}],["$","svg",null,{"className":"pfeil","width":"14","height":"14","viewBox":"0 0 14 14","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M3 11 11 3M5 3h6v6","fill":"none","stroke":"currentColor","strokeWidth":"1.5"}]}]]}]]}]]}]}],[]]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+1:[["children",{"s":"(en)","h":131120,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ecbdfb"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Form21 – AI training and talent acquisition from Berlin"}],["$","meta","1",{"name":"description","content":"Form21 gets teams ready for the shift to AI and helps companies recruit young talent on the basis of skills with the STARK app."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://www.form21.org/en/"}],["$","link","4",{"rel":"alternate","hrefLang":"de","href":"https://www.form21.org/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://www.form21.org/en/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://www.form21.org/"}],["$","meta","7",{"property":"og:title","content":"Form21 – AI training and talent acquisition from Berlin"}],["$","meta","8",{"property":"og:description","content":"Form21 gets teams ready for the shift to AI and helps companies recruit young talent on the basis of skills with the STARK app."}],["$","meta","9",{"property":"og:site_name","content":"Form21"}],["$","meta","10",{"property":"og:locale","content":"en_GB"}],["$","meta","11",{"property":"og:image","content":"https://www.form21.org/og-form21.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Two women sticking colourful sticky notes onto a glass wall"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Form21 – AI training and talent acquisition from Berlin"}],["$","meta","18",{"name":"twitter:description","content":"Form21 gets teams ready for the shift to AI and helps companies recruit young talent on the basis of skills with the STARK app."}],["$","meta","19",{"name":"twitter:image","content":"https://www.form21.org/og-form21.jpg"}],["$","meta","20",{"name":"twitter:image:alt","content":"Two women sticking colourful sticky notes onto a glass wall"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","link","23",{"rel":"icon","href":"/form21-vorschau/icon.png?icon.3ykg8bo000wan.png","sizes":"610x610","type":"image/png"}],["$","$L1a","24",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$b"}},"a":"$@1c","u":"$@1d","b":"Q1-WxMNkA5Ac3lBq6fE8a"}
+11:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
+14:null
+1d:true
+b:300
+b:C
+1c:0
+f:"$undefined"
+d:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+15:"$undefined"

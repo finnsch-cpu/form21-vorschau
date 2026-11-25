@@ -1,0 +1,8 @@
+:HL["/form21-vorschau/_next/static/chunks/0rixcchizla-8.css","style"]
+:HL["/form21-vorschau/_next/static/media/radio_canada-s.p.1si508koa-egn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/form21-vorschau/_next/static/media/unbounded-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"how-we-work","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"en","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":48,"c":"$Q2"}]]
+0:{"b":"Q1-WxMNkA5Ac3lBq6fE8a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

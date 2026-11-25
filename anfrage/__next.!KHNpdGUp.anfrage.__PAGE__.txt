@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:"/form21-vorschau/_next/static/chunks/3qfy96eoyh-ek.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/form21-vorschau/_next/static/chunks/0zwehj2471m2_.js"
+c:I[22016,["$b"],""]
+d:I[22896,["$b"],"AnfrageFormular"]
+e:I[97367,["$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$4"],"$14"]
+16:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","header",null,{"className":"seitenkopf","children":["$","div",null,{"className":"container","children":[["$","nav",null,{"aria-label":"Brotkrümelnavigation","children":["$","ol",null,{"className":"brotkrume","children":[["$","li",null,{"children":["$","$Lc",null,{"href":"/","children":"Start"}]}],[["$","li","Anfrage",{"children":[["$","span",null,{"aria-hidden":"true","children":"/ "}],["$","span",null,{"aria-current":"page","children":"Anfrage"}]]}]]]}]}],"$undefined",["$","h1",null,{"className":"seitenkopf__titel display titel-l","children":["Anfrage",[" ",["$","em",null,{"children":"an Form21."}]]]}],["$","p",null,{"className":"lead","children":"Wählt euer Anliegen und beschreibt kurz, was ihr vorhabt: eine KI-Fortbildung für euer Team, Sichtbarkeit bei STARK oder etwas anderes."}],"$undefined"]}]}],["$","section",null,{"className":"container","style":{"paddingBottom":"var(--abschnitt)","maxWidth":"calc(840px + 2 * var(--rand))"},"children":[["$","p",null,{"className":"vorschau-hinweis","role":"note","children":["Vorschau: Das Formular sendet noch nichts. Bis es freigeschaltet ist, erreicht ihr Form21 per E-Mail an"," ",["$","a",null,{"href":"mailto:post@form21.org","children":"post@form21.org"}],"."," ",["$","span",null,{"className":"sticker","title":"Kontakt-E-Mail und Kontaktziel des Formulars bestätigen.","children":"zu besprechen"}]]}],["$","$Ld",null,{"ausUrl":true}]]}]],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+2:[["children",{"s":"anfrage","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(site)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ecbdfb"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Anfrage · Form21"}],["$","meta","1",{"name":"description","content":"Anfrage an Form21 zu KI-Fortbildungen, Talentgewinnung mit STARK oder anderen Anliegen."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://www.form21.org/anfrage/"}],["$","link","4",{"rel":"alternate","hrefLang":"de","href":"https://www.form21.org/anfrage/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://www.form21.org/en/enquiry/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://www.form21.org/anfrage/"}],["$","meta","7",{"property":"og:title","content":"Anfrage"}],["$","meta","8",{"property":"og:description","content":"Anfrage an Form21 zu KI-Fortbildungen, Talentgewinnung mit STARK oder anderen Anliegen."}],["$","meta","9",{"property":"og:locale","content":"de_DE"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"Anfrage"}],["$","meta","12",{"name":"twitter:description","content":"Anfrage an Form21 zu KI-Fortbildungen, Talentgewinnung mit STARK oder anderen Anliegen."}],["$","link","13",{"rel":"icon","href":"/form21-vorschau/icon.png?icon.3ykg8bo000wan.png","sizes":"610x610","type":"image/png"}],["$","$L16","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"Q1-WxMNkA5Ac3lBq6fE8a"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"
